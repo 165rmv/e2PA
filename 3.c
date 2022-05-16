@@ -8,7 +8,7 @@ Maneja mucho mejor la cantidad de datos.
 
 2. Que pasaria si alguno de los hilos encuentra un error y termina antes que los demas?
 
-El programa debería parar
+El programa debería parar. Los hilos terminan después del error
 
 */
 

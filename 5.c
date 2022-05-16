@@ -6,7 +6,7 @@ imprimen muchas mas lineas.
 
 Por que?
 
-El fork duplica, solo es necesario quitarlo. 
+El fork duplica. Es decir abre un nuevo proceso con un identifcador nuevo, solo es necesario quitarlo. 
 
 Corrige el programa. Para que solo salgan las 9 lineas.
 
